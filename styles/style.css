@@ -9,7 +9,8 @@
     background: #E55473;
     padding: 20px 43px;
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 800;
+    border: 0px;
     color: aliceblue;
  }
 
@@ -21,17 +22,13 @@
     background: rgba(229, 84, 115, 0.10);
     align-items: center;
     justify-content: space-around;
+    padding: 50px 100px 0px 100px;
 }
 
 .title {
     color: #272727;
-    font-size: 80px;
+    font-size: 60px;
     font-weight: 700;
     margin: 0;
 
-}
-
-.header-img {
-    width: 635px;
-    height: 800px;
 }
