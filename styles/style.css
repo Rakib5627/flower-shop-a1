@@ -32,3 +32,42 @@
     margin: 0;
 
 }
+
+
+
+     /* ------main-part------ */
+
+.insta {
+    text-align: center;
+}
+
+.insta-img {
+   
+}
+
+
+.subscribe {
+    text-align: center;
+    background-image: url('../asset/Rectangle\ 9.png');
+    padding-top: 130px;
+    padding-bottom: 130px;
+    background-repeat: no-repeat;
+}
+
+/* footer-- */
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 120px;
+}
+.footer-title {
+    color: #E55473;
+    font-size: 38px;
+    font-weight: 800;
+    margin: 0px;
+}
+
+.footer-white {
+    color: white;
+}
