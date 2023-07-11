@@ -7,7 +7,7 @@
  .btn-primary {
     border-radius: 8px;
     background: #E55473;
-    padding: 20px 43px;
+    padding: 15px 30px;
     font-size: 20px;
     font-weight: 800;
     border: 0px;
@@ -78,7 +78,7 @@
 .seasonal-flower {
     margin-bottom: 200px;
     text-align: center;
-    background: rgba(167, 33, 98, 0.15);
+    background: rgba(229, 84, 115, 0.10);
     padding-top: 70px;
     padding-bottom: 70px;
 }
@@ -112,7 +112,7 @@
     padding-bottom: 150px;
     background-repeat: no-repeat;
     background-size: 100%;
-    margin-bottom: 200px;
+    margin:0px 200px 200px 200px;
 }
 
 .insta {
