@@ -31,7 +31,7 @@
 
 .title {
     color: #272727;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 700;
     margin: 0;
 
@@ -56,6 +56,7 @@
         align-items: center;
         justify-content: space-between;
         margin-top: 50px;
+        text-decoration: underline;
      }
 
      .f-image1 {
@@ -74,6 +75,26 @@
         padding: 100px 60px 0px 60px;
      }
 
+.seasonal-flower {
+    margin-bottom: 200px;
+    text-align: center;
+    background: rgba(167, 33, 98, 0.15);
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.july-flowers {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.flower-name{
+    font-size: 20px;
+    font-style: 600;
+}
+
+
+
  .hot-deal{
     display: flex;
     align-items: center;
@@ -84,7 +105,15 @@
  }
 
 
-
+.free-delivery {
+    text-align: center;
+    background-image: url('../asset/background.jpg');
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 200px;
+}
 
 .insta {
     text-align: center;
